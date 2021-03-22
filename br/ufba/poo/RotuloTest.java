@@ -16,7 +16,7 @@ import br.ufba.dc.DC;
 import br.ufba.dc.DCClass;
 import br.ufba.myterminal.MyTerminal;
 
-public class TextoTest {
+public class RotuloTest {
 	private DCClass cRotulo = DC.getClass("br.ufba.poo.Rotulo");
 	
 	DefaultTerminalFactory defaultTerminalFactory = new DefaultTerminalFactory();
